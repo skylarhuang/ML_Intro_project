@@ -14,4 +14,7 @@ In VGG-Face, the dataset has already be trained and weights can be downloaded [h
 
 ## Train Empty VGG-Face architecture using our own dataset
 We created our own dataset with 73820 photos of 553 different celebrities. 
-The size of ouw databset is over 185MB so you can download it from [here](https://drive.google.com/a/nyu.edu/file/d/1WQZAe42fYvGBMItPw79QOP1BdUyxGGd3/view?usp=sharing).
+<img src="https://github.com/skylarhuang/ML_project/blob/master/owndatabase.PNG">
+
+The size of our databset is over 185MB so you can download it from [here](https://drive.google.com/a/nyu.edu/file/d/1WQZAe42fYvGBMItPw79QOP1BdUyxGGd3/view?usp=sharing).
+Use [this](https://github.com/skylarhuang/ML_project/blob/master/create_test.ipynb) file to split all photos into two set. Test set will contain 10 photos of each 553 celebrities. And the left will be kept in training set.
