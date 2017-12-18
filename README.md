@@ -18,8 +18,8 @@ We are using the OpenCV cascade to cut out faces refrencing [this](https://realp
 ## Train VGG-Face architecture using our own dataset
 ## Not Finish Yet Would Update Soon
 
-We created our own dataset with 500 photos of 10 different celebrities. 
-The size of our databset is over 185MB so you can download it from [here](https://drive.google.com/a/nyu.edu/file/d/1WQZAe42fYvGBMItPw79QOP1BdUyxGGd3/view?usp=sharing).
+We created our own dataset with 1496 photos of 10 different celebrities. 
+The size of our databset is over 100 files so you can download it from [here](https://drive.google.com/a/nyu.edu/file/d/1ldKnWMwJkt2PQ4LbwLvzsQHTpdQ7LRG9/view?usp=sharing).
 
 Use [this](https://github.com/skylarhuang/ML_project/blob/master/create_test.ipynb) file to split all photos into two set. Test set will contain 10 photos of each 10 celebrities. And the left will be kept in training set.
 
