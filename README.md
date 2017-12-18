@@ -13,8 +13,8 @@ Our Tean Members are:
 In VGG-Face, the dataset has already be trained and weights can be downloaded [here](http:http://www.robots.ox.ac.uk/~vgg/software/vgg_face/src/vgg_face_matconvnet.tar.gz).
 
 ## Train Empty VGG-Face architecture using our own dataset
-We created our own dataset with 73820 photos of 553 different celebrities. 
-<img src="https://github.com/skylarhuang/ML_project/blob/master/owndatabase.PNG">
+## Not Finish Would Update Soon
 
+We created our own dataset with 500 photos of 10 different celebrities. 
 The size of our databset is over 185MB so you can download it from [here](https://drive.google.com/a/nyu.edu/file/d/1WQZAe42fYvGBMItPw79QOP1BdUyxGGd3/view?usp=sharing).
-Use [this](https://github.com/skylarhuang/ML_project/blob/master/create_test.ipynb) file to split all photos into two set. Test set will contain 10 photos of each 553 celebrities. And the left will be kept in training set.
+Use [this](https://github.com/skylarhuang/ML_project/blob/master/create_test.ipynb) file to split all photos into two set. Test set will contain 10 photos of each 10 celebrities. And the left will be kept in training set.
