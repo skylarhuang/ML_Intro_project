@@ -3,6 +3,7 @@
 This repository includes jupyter notebooks and test pictures of our project.
 
 We are trying to predict the names of people in a picture provided.  
+<img src="https://github.com/skylarhuang/ML_project/blob/master/mg_result.PNG?raw=true">
 
 To do this, we considered a well-known pre-trained Convolutional Deep Neural Networks, called VGG-FACE.
 
@@ -26,9 +27,9 @@ We are using the OpenCV cascade to cut out faces referencing [this](https://real
 We created our own dataset with 1496 photos of 10 different celebrities. 
 The size of our databset is over 100 files so you can download it from [here](https://drive.google.com/a/nyu.edu/file/d/1hgcajyL_qAPl61nkU1NVft-JNaw6L9Lo/view?usp=sharing).
 
-Use [this](https://github.com/skylarhuang/ML_project/blob/master/create_test.ipynb) file to split all photos into two set. Test set will contain 10 photos of each 10 celebrities. And the left will be kept in training set.
+<img src="https://github.com/skylarhuang/ML_project/blob/master/Dataset.PNG?raw=true">
 
-We are trying to fine tune layer to VGG-Face achitecture refrencing [this](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)page and [this](https://github.com/rcmalli/keras-vggface) page.
+We are trying to fine tune layer to VGG-Face achitecture refrencing [this](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html) page and [this](https://github.com/rcmalli/keras-vggface) page.
 
 The highest accuracy we have currently is >98%.
 
