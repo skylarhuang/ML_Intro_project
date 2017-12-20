@@ -1,8 +1,11 @@
 # Facial Recognition Using Deep Neural Network
 
 This repository includes jupyter notebooks and test pictures of our project.
+
 We are trying to predict the names of people in a picture provided.  
+
 To do this, we considered a well-known pre-trained Convolutional Deep Neural Networks, called VGG-FACE.
+
 Then we created our own datasets and fine tuned the model.
 
 Our Team Members are:
