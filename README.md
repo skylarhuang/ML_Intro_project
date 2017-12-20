@@ -2,7 +2,8 @@
 
 This repository includes jupyter notebooks and test pictures of our project.
 We are trying to predict the names of people in a picture provided.  
-To do this, we considered a well-known pre-trained Convolutional Deep Neural Networks, called VGG-FACE.  
+To do this, we considered a well-known pre-trained Convolutional Deep Neural Networks, called VGG-FACE.
+Then we created our own datasets and fine tuned the model.
 
 Our Team Members are:
 * Sui Huang: sh4507@nyu.edu
@@ -10,7 +11,6 @@ Our Team Members are:
 
 ## Facial Recognition Using Pre-Trained VGG-Face
 #### Jupyter notebook of our project can be found here [pre_trained_vgg_face.ipynb](https://github.com/skylarhuang/ML_project/blob/master/pre_trained_vgg_face.ipynb)
-
 
 In VGG-Face, the dataset has already be trained and weights can be downloaded [here](http:http://www.robots.ox.ac.uk/~vgg/software/vgg_face/src/vgg_face_matconvnet.tar.gz).
 
@@ -25,7 +25,9 @@ The size of our databset is over 100 files so you can download it from [here](ht
 
 Use [this](https://github.com/skylarhuang/ML_project/blob/master/create_test.ipynb) file to split all photos into two set. Test set will contain 10 photos of each 10 celebrities. And the left will be kept in training set.
 
-We are trying to edit layer to VGG-Face achitecture refrencing [this](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)page and [this](https://github.com/rcmalli/keras-vggface) page.
+We are trying to fine tune layer to VGG-Face achitecture refrencing [this](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)page and [this](https://github.com/rcmalli/keras-vggface) page.
+
+The highest accuracy we have currently is >98%.
 
 ### Unfinished, will update soon
 
