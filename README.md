@@ -20,7 +20,7 @@ In VGG-Face, the dataset has already be trained and weights can be downloaded [h
 We are building our project according to [this](https://aboveintelligent.com/face-recognition-with-keras-and-opencv-2baf2a83b799) page.
 We are using the OpenCV cascade to cut out faces referencing [this](https://realpython.com/blog/python/face-recognition-with-python/)  page.
 
-## Train VGG-Face architecture using our own dataset
+## Train VGG-Face Architecture Using Our Own Dataset
 #### Jupyter notebook of our project can be found here [pre_trained_vgg_face.ipynb](https://github.com/skylarhuang/ML_project/blob/master/Fine_Tuning_Vgg_Face.ipynb).
 
 We created our own dataset with 1496 photos of 10 different celebrities. 
