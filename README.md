@@ -49,4 +49,4 @@ OS： Windows10
 
 CPU: Intel(R) Core(TM) i7-6700 @ 3.4Ghz(8 CPUs)
 
-GPU：NVIDIA GeForce GTX 1070 8GB
+GPU：NVIDIA GeForce GTX 1070 
