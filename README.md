@@ -7,7 +7,7 @@ We are trying to predict the names of people in a picture provided.
 
 To do this, we considered a well-known pre-trained Convolutional Deep Neural Networks, called VGG-FACE.
 
-Then we created our own datasets and fine tuned the model.
+Then we created our own datasets and fine tuned the model, trained the customized model again.
 
 Our Team Members are:
 * Sui Huang: sh4507@nyu.edu
@@ -51,6 +51,6 @@ OpenCV-python 3.3.0.10
 ## System Configuration
 OS： Windows10
 
-CPU: Intel(R) Core(TM) i7-6700 @ 3.4Ghz(8 CPUs)
+CPU:  Intel(R) Core(TM) i7-6700 
 
 GPU：NVIDIA GeForce GTX 1070 
