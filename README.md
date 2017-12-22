@@ -18,7 +18,7 @@ Then we created our own datasets and fine tuned the model, trained the customize
 ## Facial Recognition Using Pre-Trained VGG-Face + OpenCV
 #### Jupyter notebook of our project can be found here [Pre_Trained_Vgg_Face.ipynb](https://github.com/skylarhuang/ML_project/blob/master/pre_trained_vgg_face.ipynb)
 
-In VGG-Face, the dataset has already be trained and weights can be downloaded [here](http:http://www.robots.ox.ac.uk/~vgg/software/vgg_face/src/vgg_face_matconvnet.tar.gz).
+In VGG-Face, the dataset has already be trained and weights can be downloaded from [here](http:http://www.robots.ox.ac.uk/~vgg/software/vgg_face/src/vgg_face_matconvnet.tar.gz).
 
 We are building our project according to [this](https://aboveintelligent.com/face-recognition-with-keras-and-opencv-2baf2a83b799) page.
 We are using the OpenCV cascade to cut out faces referencing [this](https://realpython.com/blog/python/face-recognition-with-python/)  page.
@@ -35,9 +35,11 @@ The size of our databset is over 100 files so you can download it from [here](ht
 
 <img src="https://github.com/skylarhuang/ML_project/blob/master/Dataset.PNG?raw=true">
 
-We are trying to fine tune layer to VGG-Face achitecture refrencing [this](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html) page and [this](https://github.com/rcmalli/keras-vggface) page.
+We were trying to fine tune layer to VGG-Face achitecture refrencing [this](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html) page and [this](https://github.com/rcmalli/keras-vggface) page.
 
-We also import some twists to our dataset, and compare the result to the origin one.
+We also imported some twists to our dataset, and compared the results to the origin one.
+
+<img src="https://github.com/skylarhuang/ML_project/blob/master/Dataset_twist.PNG?raw=true">
 
 Result:
 
