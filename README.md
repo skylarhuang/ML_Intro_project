@@ -43,11 +43,11 @@ We also imported some twists to our dataset, and compared the results to the ori
 
 Result:
 
-| Model No   | Training Set   | Testing Set  |  Accuracy |
-| :---       |     :---:      |   :---:      |  ---:     |
-| 1          | Original       | Original     |  >98%     |
-| 2          | Original       | Twisted      |  >40%     |
-| 3          | Twisted        | Twisted      |  >80%     |
+| Model No   | Training Set   | Testing Set  |  Accuracy | Validate Accyracy|
+| :---       |     :---:      |   :---:      |  :---:    |    ---:          |
+| 1          | Original       | Original     |  >98%     |  >95%            |
+| 2          | Original       | Twisted      |  >99%     |  >40%            |
+| 3          | Twisted        | Twisted      |  >82%     |  >84             |
 
 
 ## Library Version
