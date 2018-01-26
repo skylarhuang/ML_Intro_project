@@ -47,8 +47,8 @@ Result:
  | Model No   | Training Set   | Testing Set  |  Accuracy | Validate Accuracy|
  | :---:      |     :---:      |   :---:      |  ---:     | :----:|
  | 1          | Original       | Original     |  >98%     | >95%|
- | 2          | Original       | Twisted      |  >99%     | >40%|
- | 3          | Twisted        | Twisted      |  >82%     | >84%|
+ | 2          | Original       | Twisted      |  >98%     | >25%|
+ | 3          | Twisted        | Twisted      |  >44%     | >42%|
 
 
 
