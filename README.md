@@ -31,7 +31,7 @@ Result:
 #### Jupyter notebook of our project can be found here [Fine_Tuning_Vgg_Face.ipynb](https://github.com/skylarhuang/ML_project/blob/master/Fine_Tuning_Vgg_Face.ipynb).
 
 We created our own dataset with 1496 photos of 10 different celebrities. 
-The size of our databset is over 100 files so you can download it from [here](https://drive.google.com/a/nyu.edu/file/d/1hgcajyL_qAPl61nkU1NVft-JNaw6L9Lo/view?usp=sharing).
+The size of our databset is over 100 files so you can download it from here (*link deleted*).
 
 #### UPDATE
 #### Please do not ask for access to this dataset. This is a private dataset created by our own with huge efforts. Niether do I have the right to share nor will I share. Thanks.
